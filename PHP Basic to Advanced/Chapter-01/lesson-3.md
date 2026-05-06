@@ -19,7 +19,7 @@ Don't forget to hit the :star: if you like this repo.
 
 **লিনাক্স এবং ম্যাক ইউজারদের জন্য**
 
-```php
+```
 macOS: Homebrew ব্যবহার করে brew install php কমান্ডের মাধ্যমে দ্রুত লেটেস্ট ভার্সন ইনস্টল করা যায়।
 
 Linux (Ubuntu): সাধারণত sudo apt install php কমান্ড ব্যবহার করা হয়।
