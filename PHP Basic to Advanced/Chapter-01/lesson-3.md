@@ -1,0 +1,47 @@
+<a href="https://github.com/kaamrul/codearc-php-laravel-bootcamp/stargazers"><img src="https://img.shields.io/github/stars/kaamrul/codearc-php-laravel-bootcamp" alt="Stars Badge"/></a>
+<a href="https://github.com/kaamrul/codearc-php-laravel-bootcamp/network/members"><img src="https://img.shields.io/github/forks/kaamrul/codearc-php-laravel-bootcamp" alt="Forks Badge"/></a>
+<a href="https://github.com/kaamrul/codearc-php-laravel-bootcamp/pulls"><img src="https://img.shields.io/github/issues-pr/kaamrul/codearc-php-laravel-bootcamp" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/kaamrul/codearc-php-laravel-bootcamp/issues"><img src="https://img.shields.io/github/issues/kaamrul/codearc-php-laravel-bootcamp" alt="Issues Badge"/></a>
+<a href="https://github.com/kaamrul/codearc-php-laravel-bootcamp/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/kaamrul/codearc-php-laravel-bootcamp?color=2b9348"></a>
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fkaamrul%2Fcodearc-php-laravel-bootcamp&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
+
+Don't forget to hit the :star: if you like this repo.
+
+## এনভায়রনমেন্ট সেটআপ
+
+পিএইচপি কোড সরাসরি ব্রাউজারে (যেমন HTML-এর মতো) রান করা যায় না। এর জন্য একটি ওয়েব সার্ভার প্রয়োজন। আপনার নিজের কম্পিউটারেই পিএইচপি প্র্যাকটিস করার জন্য আমরা একটি 'লোকাল এনভায়রনমেন্ট' তৈরি করবো।
+
+**উইন্ডোজ ইউজারদের জন্য: Laragon বা XAMPP**
+
+উইন্ডোজে পিএইচপি প্র্যাকটিস করার জন্য Laragon বর্তমানে সবচেয়ে আধুনিক এবং দ্রুততম টুল। এটি আপনাকে খুব সহজে ভার্চুয়াল হোস্ট তৈরি করার সুবিধা দেয়। তবে আপনি চাইলে চিরচেনা XAMPP-ও ব্যবহার করতে পারেন।
+
+``` টিপস: সেটআপ করার পর অবশ্যই কন্ট্রোল প্যানেল থেকে Apache এবং MySQL স্টার্ট করে নিতে হবে।```
+
+**লিনাক্স এবং ম্যাক ইউজারদের জন্য**
+
+```php
+macOS: Homebrew ব্যবহার করে brew install php কমান্ডের মাধ্যমে দ্রুত লেটেস্ট ভার্সন ইনস্টল করা যায়।
+
+Linux (Ubuntu): সাধারণত sudo apt install php কমান্ড ব্যবহার করা হয়।
+
+ডকার: আর যারা আরও এক ধাপ এগিয়ে থাকতে চান, তারা Docker ব্যবহার করে কন্টেইনারাইজড এনভায়রনমেন্ট তৈরি করতে পারেন, যা বড় প্রজেক্টের ক্ষেত্রে ইন্ডাস্ট্রি স্ট্যান্ডার্ড।
+```
+**এনভায়রনমেন্ট ভ্যারিয়েবল চেক**
+
+সেটআপ ঠিকঠাক হয়েছে কি না তা বোঝার জন্য আপনার কম্পিউটারের টার্মিনাল বা কমান্ড প্রম্পট ওপেন করুন এবং লিখুন:
+
+```php -v```
+
+যদি আপনি পিএইচপি-র ভার্সন দেখতে পান, তবে অভিনন্দন! আপনি আপনার প্রথম কোড লেখার জন্য প্রস্তুত।
+
+
+
+
+## Contribution 🛠️
+Please create an [Issue](https://github.com/kaamrul/codearc-php-laravel-bootcamp/issues) for any improvements, suggestions or errors in the content.
+
+
+You can also contact me using [Linkedin](https://www.linkedin.com/in/kaamrul/) for any other queries or feedback.
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fkaamrul&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fkaamrul)
+![](https://hit.yhype.me/github/profile?user_id=81284918)

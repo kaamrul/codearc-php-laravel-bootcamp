@@ -1,0 +1,43 @@
+<a href="https://github.com/kaamrul/codearc-php-laravel-bootcamp/stargazers"><img src="https://img.shields.io/github/stars/kaamrul/codearc-php-laravel-bootcamp" alt="Stars Badge"/></a>
+<a href="https://github.com/kaamrul/codearc-php-laravel-bootcamp/network/members"><img src="https://img.shields.io/github/forks/kaamrul/codearc-php-laravel-bootcamp" alt="Forks Badge"/></a>
+<a href="https://github.com/kaamrul/codearc-php-laravel-bootcamp/pulls"><img src="https://img.shields.io/github/issues-pr/kaamrul/codearc-php-laravel-bootcamp" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/kaamrul/codearc-php-laravel-bootcamp/issues"><img src="https://img.shields.io/github/issues/kaamrul/codearc-php-laravel-bootcamp" alt="Issues Badge"/></a>
+<a href="https://github.com/kaamrul/codearc-php-laravel-bootcamp/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/kaamrul/codearc-php-laravel-bootcamp?color=2b9348"></a>
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fkaamrul%2Fcodearc-php-laravel-bootcamp&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
+
+Don't forget to hit the :star: if you like this repo.
+
+## টেক্সট এডিটর সেটআপ
+
+একজন কাঠমিস্ত্রির জন্য যেমন ভালো মানের করাত বা হাতুড়ি দরকার, একজন প্রোগ্রামারের জন্য তেমনি প্রয়োজন একটি শক্তিশালী টেক্সট এডিটর। আমরা ব্যবহার করবো Visual Studio Code (VS Code)।
+
+**এসেনশিয়াল এক্সটেনশনস (The Speed Boosters)**
+
+আপনার কোডিং অভিজ্ঞতাকে প্রিমিয়াম করতে নিচের এক্সটেনশনগুলো ইন্সটল করে নিন:
+
+```
+PHP Intelephense: এটি আপনাকে অটো-কমপ্লিশন এবং এরর খুঁজে পেতে সাহায্য করবে।
+PHP Sniffer: কোড যেন স্ট্যান্ডার্ড অনুযায়ী হয়, তা নিশ্চিত করবে।
+Prettier: অগোছালো কোডকে এক ক্লিকে সুন্দর করে সাজিয়ে দেবে।
+```
+
+**ফন্ট এবং থিম (চোখের আরাম ও সৌন্দর্য)**
+
+প্রফেশনাল প্রোগ্রামাররা দীর্ঘ সময় স্ক্রিনের দিকে তাকিয়ে থাকেন। তাই ভালো একটি ফন্ট যেমন JetBrains Mono বা Fira Code ব্যবহার করা উচিত। এগুলোতে 'Ligatures' সুবিধা থাকে, যা কোডের সিম্বলগুলোকে (যেমন: ->, =>, !=) দেখতে আরও সুন্দর করে তোলে।
+
+**টার্মিনাল ইন্টিগ্রেশন**
+
+বারবার উইন্ডো পরিবর্তন না করে VS Code-এর ভেতরেই Ctrl + ` (Backtick) চেপে টার্মিনাল ব্যবহার করা শিখুন। এটি আপনার কাজের গতি বহুগুণ বাড়িয়ে দেবে।
+
+
+
+
+
+## Contribution 🛠️
+Please create an [Issue](https://github.com/kaamrul/codearc-php-laravel-bootcamp/issues) for any improvements, suggestions or errors in the content.
+
+
+You can also contact me using [Linkedin](https://www.linkedin.com/in/kaamrul/) for any other queries or feedback.
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fkaamrul&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fkaamrul)
+![](https://hit.yhype.me/github/profile?user_id=81284918)
