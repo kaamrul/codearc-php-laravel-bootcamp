@@ -48,9 +48,9 @@ PHP তে প্রধানত নিচের Operator গুলো সবচ
 ---
 ## 📚 অধ্যায়ের নেভিগেশন
 
-| ⬅️ Previous Chapter | 🏠 Home | ➡️ Next Chapter |
+| ⬅️ পূর্ববর্তী পাঠ | 🏠 সূচিপত্র | ➡️ পরবর্তী পাঠ |
 |---|---|---|
-| [ভেরিয়েবল](2.2-variables.md) | [সূচিপত্র](../README.md) | [গাণিতিক বা অ্যারিথমেটিক অপারেটর](3.1-arithmetic-operators.md) |
+| [ভেরিয়েবল](2.2-variables.md) | [হোম](../README.md) | [গাণিতিক বা অ্যারিথমেটিক অপারেটর](3.1-arithmetic-operators.md) |
 
 
 ---
