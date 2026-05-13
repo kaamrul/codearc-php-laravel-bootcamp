@@ -7,7 +7,9 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# 📘 PHP Operators & Expressions Full Example
+# 📘 Complete PHP Operators Example with Comments & Explanation
+
+নিচের example project এ আমরা প্রায় সব ধরনের PHP Operators ব্যবহার করেছি এবং প্রতিটি লাইনে comment দিয়ে explain করা হয়েছে।
 
 ```php
 <?php
