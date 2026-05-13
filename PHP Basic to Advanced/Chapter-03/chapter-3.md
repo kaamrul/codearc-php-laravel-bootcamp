@@ -70,11 +70,6 @@ Please create an [Issue](https://github.com/kaamrul/codearc-php-laravel-bootcamp
 
 ---
 
-## Contribution 🛠️
-Please create an [Issue](https://github.com/kaamrul/codearc-php-laravel-bootcamp/issues) for any improvements, suggestions or errors in the content.
-
----
-
 ## 📬 Contact
 
 You can also contact me using [LinkedIn](https://www.linkedin.com/in/kaamrul/) for any queries, collaboration, or feedback.
