@@ -25,14 +25,15 @@ Don't forget to hit the :star: if you like this repo.
 
 PHP তে প্রধানত নিচের Operator গুলো সবচেয়ে বেশি ব্যবহার হয়ঃ
 
-- **৩.১ গাণিতিক বা অ্যারিথমেটিক অপারেটর (Arithmetic Operators)**
+- **৩.১ অ্যারিথমেটিক বা গাণিতিক অপারেটর (Arithmetic Operators)**
 - **৩.২ ইনক্রিমেন্ট ও ডিক্রিমেন্ট অপারেটর (Increment & Decrement)**
 - **৩.৩ অ্যাসাইনমেন্ট অপারেটর (Assignment Operators)**
 - **৩.৪ কম্পারিজন বা তুলনামূলক অপারেটর (Comparison Operators)**
-- **৩.৫ লজিক্যাল অপারেটর এবং প্রেসিডেন্স (Logical Operators)**
-- **৩.৬ স্ট্রিং অপারেশন: কনক্যাটিনেশন বনাম ইন্টারপোলেশন**
-- **৩.৭ আধুনিক পিএইচপি এবং নাল হ্যান্ডলিং (Null Handling Operators)**
-- **৩.৮ ডাটা স্যানিটাইজেশন এবং বিল্ট-ইন ফাংশন**
+- **৩.৫ লজিক্যাল বা যৌক্তিক অপারেটর (Logical Operators)**
+- **৩.৬ স্ট্রিং অপারেটর: কনক্যাটিনেশন বনাম ইন্টারপোলেশন (String operators)**
+- **৩.৭ অ্যারে অপারেটর (Array Operators)**
+- **৩.৮ শর্তাধীন/ত্রয়ী অপারেটর (Conditional/Ternary Operator)**
+- **৩.৯ বিল্ট-ইন ফাংশন এবং ডেটা হ্যান্ডলিং (Built-in Function and Data Handling)**
 
 
 ## কেন Operators & Expressions গুরুত্বপূর্ণ?
