@@ -25,15 +25,15 @@ Don't forget to hit the :star: if you like this repo.
 
 PHP তে প্রধানত নিচের Operator গুলো সবচেয়ে বেশি ব্যবহার হয়ঃ
 
-- **৩.১ অ্যারিথমেটিক বা গাণিতিক অপারেটর (Arithmetic Operators)**
-- **৩.২ ইনক্রিমেন্ট ও ডিক্রিমেন্ট অপারেটর (Increment & Decrement)**
-- **৩.৩ অ্যাসাইনমেন্ট অপারেটর (Assignment Operators)**
-- **৩.৪ কম্পারিজন বা তুলনামূলক অপারেটর (Comparison Operators)**
-- **৩.৫ লজিক্যাল বা যৌক্তিক অপারেটর (Logical Operators)**
-- **৩.৬ স্ট্রিং অপারেটর: কনক্যাটিনেশন বনাম ইন্টারপোলেশন (String operators)**
-- **৩.৭ অ্যারে অপারেটর (Array Operators)**
-- **৩.৮ শর্তাধীন/ত্রয়ী অপারেটর (Conditional/Ternary Operator)**
-- **৩.৯ বিল্ট-ইন ফাংশন এবং ডেটা হ্যান্ডলিং (Built-in Function and Data Handling)**
+- **[৩.১ অ্যারিথমেটিক বা গাণিতিক অপারেটর (Arithmetic Operators)](3.1-arithmetic-operators.md)**
+- **[৩.২ ইনক্রিমেন্ট ও ডিক্রিমেন্ট অপারেটর (Increment & Decrement)](3.2-increment-decrement-operators.md)**
+- **[৩.৩ অ্যাসাইনমেন্ট অপারেটর (Assignment Operators)](3.3-assignment-operators.md)**
+- **[৩.৪ কম্পারিজন বা তুলনামূলক অপারেটর (Comparison Operators)](3.4-comparisaon-operators.md)**
+- **[৩.৫ লজিক্যাল বা যৌক্তিক অপারেটর (Logical Operators)](3.5-logical-operators.md)**
+- **[৩.৬ স্ট্রিং অপারেটর: কনক্যাটিনেশন বনাম ইন্টারপোলেশন (String operators)](3.6-string-operators.md)**
+- **[৩.৭ অ্যারে অপারেটর (Array Operators)](3.7-array-operators.md)**
+- **[৩.৮ শর্তাধীন/ত্রয়ী অপারেটর (Conditional/Ternary Operator)](3.8-conditional-operators.md)**
+- **[৩.৯ বিল্ট-ইন ফাংশন এবং ডেটা হ্যান্ডলিং (Built-in Function and Data Handling)](3.9-built-in-functions.md)**
 
 
 ## কেন Operators & Expressions গুরুত্বপূর্ণ?
