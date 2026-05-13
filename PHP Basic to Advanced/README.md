@@ -11,7 +11,7 @@
 * [১.৪ টেক্সট এডিটর (VS Code) কনফিগারেশন](Chapter-01/1.4-editor-setup.md)
 
 ### 📂 Chapter 2: PHP Basics
-* [২.১ সিনট্যাক্স, প্রিন্টিং এবং কমেন্ট (echo/print)](Chapter-02/2.1-syntax-comments.md)[cite: 4, 5]
+* [২.১ সিনট্যাক্স, প্রিন্টিং (echo/print) এবং কমেন্ট](Chapter-02/2.1-syntax-comments.md)
 * [২.২ ভেরিয়েবল (Variables)](Chapter-02/2.2-variables.md)
 * [২.৩ ডাটা টাইপস (Data Types)](Chapter-02/2.3-data-types.md)
 * [২.৪ টাইপ কাস্টিং ও টাইপ জাগলিং](Chapter-02/2.4-type-casting.md)
