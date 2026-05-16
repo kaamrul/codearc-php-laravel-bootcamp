@@ -36,7 +36,7 @@ Don't forget to hit the :star: if you like this repo.
   </thead>
 
   <tbody>
-    <!-- Conditional Statements -->
+
     <tr>
       <td rowspan="2"><b>Conditional Statements</b></td>
       <td>if/else</td>
@@ -47,7 +47,6 @@ Don't forget to hit the :star: if you like this repo.
       <td>একটি মান যাচাই করে এবং সেই মান অনুযায়ী বিভিন্ন কোড ব্লকের মধ্যে নির্দিষ্ট কোড কার্যকর করে।</td>
     </tr>
 
-    <!-- Loop Statements -->
     <tr>
       <td rowspan="4"><b>Loop Statements</b></td>
       <td>for</td>
@@ -66,7 +65,6 @@ Don't forget to hit the :star: if you like this repo.
       <td>একটি অ্যারে বা সংগ্রহের প্রতিটি উপাদানের উপর পর্যায়ক্রমে কাজ করে এবং প্রতিটির জন্য নির্দিষ্ট কোড কার্যকর করে।</td>
     </tr>
 
-    <!-- Flow Control Statements -->
     <tr>
       <td rowspan="4"><b>Flow Control Statements</b></td>
       <td>break</td>
