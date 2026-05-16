@@ -28,7 +28,6 @@ Don't forget to hit the :star: if you like this repo.
 - কতবার পুনরাবৃত্তি হবে  
 - কখন flow পরিবর্তন হবে  
 
----
 
 ## 📚 এই অধ্যায়ের বিষয়সমূহ
 
@@ -41,7 +40,6 @@ Don't forget to hit the :star: if you like this repo.
 - **[৪.৫ কন্ডিশনাল HTML আউটপুট (Conditional HTML Output)](4.5-conditional-html-output.md)**
 - **[৪.৬ ব্রেক এবং কন্টিনিউ (Break & Continue)](4.6-break-continue.md)**
 
----
 
 ## উদাহরণ ও ব্যবহার
 
@@ -99,7 +97,6 @@ Don't forget to hit the :star: if you like this repo.
 
 এগুলোর মাধ্যমে একটি প্রোগ্রামকে যৌক্তিক, গতিশীল এবং কার্যকরভাবে পরিচালনা করা যায়।
 
----
 
 ## 🎯 এই অধ্যায়ের লক্ষ্য
 
@@ -109,7 +106,7 @@ Don't forget to hit the :star: if you like this repo.
 - dynamic web page তৈরি করা  
 - clean control flow লেখা  
 
----
+
 
 ## 📚 অধ্যায়ের নেভিগেশন
 
@@ -118,7 +115,7 @@ Don't forget to hit the :star: if you like this repo.
 | [ভেরিয়েবল](2.2-variables.md) | [হোম](../README.md) | [If / Else / Elseif](4.1-if-else.md) |
 
 
----
+
 
 ## 🤝 Contribution
 
@@ -133,7 +130,7 @@ Don't forget to hit the :star: if you like this repo.
 
 Please create an [Issue](https://github.com/kaamrul/codearc-php-laravel-bootcamp/issues) for any improvements, suggestions, or errors in the content.
 
----
+
 
 ## 📬 Contact
 
