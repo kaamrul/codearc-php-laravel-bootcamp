@@ -22,9 +22,7 @@ Don't forget to hit the :star: if you like this repo.
 সংক্ষেপে বলা যায়, পিএইচপি কন্ট্রোল স্ট্রাকচার হলো এমন একটি ব্যবস্থা, যা একটি প্রোগ্রামের চলার ধারা নিয়ন্ত্রণ করে এবং প্রয়োজন অনুযায়ী সিদ্ধান্ত গ্রহণ ও পুনরাবৃত্তিমূলক কাজ সম্পাদন করতে সহায়তা করে।
 ```
 
-### উদাহরণ
-
-পিএইচপি কন্ট্রোল স্ট্রাকচার এর অন্তর্ভুক্ত:
+### নিচে পিএইচপি কন্ট্রোল স্ট্রাকচারের প্রধান ক্যাটাগরি ও তাদের ব্যবহার দেখানো হলো:
 
 <table>
   <thead>
@@ -36,7 +34,7 @@ Don't forget to hit the :star: if you like this repo.
   </thead>
 
   <tbody>
-
+    <!-- Conditional Statements -->
     <tr>
       <td rowspan="2"><b>Conditional Statements</b></td>
       <td>if/else</td>
@@ -46,7 +44,9 @@ Don't forget to hit the :star: if you like this repo.
       <td>switch</td>
       <td>একটি মান যাচাই করে এবং সেই মান অনুযায়ী বিভিন্ন কোড ব্লকের মধ্যে নির্দিষ্ট কোড কার্যকর করে।</td>
     </tr>
-
+    <tr>
+    </tr>
+    <!-- Loop Statements -->
     <tr>
       <td rowspan="4"><b>Loop Statements</b></td>
       <td>for</td>
@@ -64,7 +64,7 @@ Don't forget to hit the :star: if you like this repo.
       <td>foreach</td>
       <td>একটি অ্যারে বা সংগ্রহের প্রতিটি উপাদানের উপর পর্যায়ক্রমে কাজ করে এবং প্রতিটির জন্য নির্দিষ্ট কোড কার্যকর করে।</td>
     </tr>
-
+    <!-- Flow Control Statements -->
     <tr>
       <td rowspan="4"><b>Flow Control Statements</b></td>
       <td>break</td>
