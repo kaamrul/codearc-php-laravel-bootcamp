@@ -22,104 +22,100 @@ Don't forget to hit the :star: if you like this repo.
 সংক্ষেপে বলা যায়, পিএইচপি কন্ট্রোল স্ট্রাকচার হলো এমন একটি ব্যবস্থা, যা একটি প্রোগ্রামের চলার ধারা নিয়ন্ত্রণ করে এবং প্রয়োজন অনুযায়ী সিদ্ধান্ত গ্রহণ ও পুনরাবৃত্তিমূলক কাজ সম্পাদন করতে সহায়তা করে।
 ```
 
-### নিচে পিএইচপি কন্ট্রোল স্ট্রাকচারের প্রধান ক্যাটাগরি ও তাদের ব্যবহার দেখানো হলো:
+এটি নির্ধারণ করে:
+- কোন নির্দেশ কখন চলবে  
+- কোন শর্তে চলবে  
+- কতবার পুনরাবৃত্তি হবে  
+- কখন flow পরিবর্তন হবে  
+
+---
+
+## 📚 এই অধ্যায়ের বিষয়সমূহ
+
+এই অধ্যায়ে আমরা শিখব:
+
+- **[৪.১ If / Else / Elseif](4.1-if-else.md)**
+- **[৪.২ নেস্টেড কন্ডিশন (Nested Conditions)](4.2-nested-conditions.md)**
+- **[৪.৩ সুইচ স্টেটমেন্ট (Switch Statement)](4.3-switch-statement.md)**
+- **[৪.৪ টারনারি অপারেটর (Ternary Operator)](4.4-ternary-operator.md)**
+- **[৪.৫ কন্ডিশনাল HTML আউটপুট (Conditional HTML Output)](4.5-conditional-html-output.md)**
+- **[৪.৬ ব্রেক এবং কন্টিনিউ (Break & Continue)](4.6-break-continue.md)**
+
+---
+
+## উদাহরণ ও ব্যবহার
+
+নিচে পিএইচপি কন্ডিশনাল কন্ট্রোল স্ট্রাকচারের প্রধান ক্যাটাগরি ও তাদের ব্যবহার দেখানো হলো:
 
 <table>
-  <thead>
-    <tr>
-      <th>গ্রুপ</th>
-      <th>নির্দেশনা</th>
-      <th>বর্ণনা</th>
-    </tr>
-  </thead>
-
-  <tbody>
-    <!-- Conditional Statements -->
-    <tr>
-      <td rowspan="2"><b>Conditional Statements</b></td>
-      <td>if/else</td>
-      <td>একটি শর্ত যাচাই করে। শর্ত সত্য হলে নির্দিষ্ট কোড কার্যকর হয়, আর মিথ্যা হলে else অংশের কোড কার্যকর হয়।</td>
-    </tr>
-    <tr>
-      <td>switch</td>
-      <td>একটি মান যাচাই করে এবং সেই মান অনুযায়ী বিভিন্ন কোড ব্লকের মধ্যে নির্দিষ্ট কোড কার্যকর করে।</td>
-    </tr>
-    <tr>
-    </tr>
-    <!-- Loop Statements -->
-    <tr>
-      <td rowspan="4"><b>Loop Statements</b></td>
-      <td>for</td>
-      <td>নির্দিষ্ট সংখ্যক বার একটি কোড ব্লক চালায়। এটি শুরু মান, শেষ মান এবং ধাপের মানের উপর ভিত্তি করে কাজ করে।</td>
-    </tr>
-    <tr>
-      <td>while</td>
-      <td>যতক্ষণ নির্দিষ্ট শর্ত সত্য থাকে, ততক্ষণ কোড বারবার কার্যকর হয়।</td>
-    </tr>
-    <tr>
-      <td>do...while</td>
-      <td>প্রথমে একবার কোড কার্যকর করে, তারপর শর্ত সত্য থাকলে পুনরায় কোড চালাতে থাকে।</td>
-    </tr>
-    <tr>
-      <td>foreach</td>
-      <td>একটি অ্যারে বা সংগ্রহের প্রতিটি উপাদানের উপর পর্যায়ক্রমে কাজ করে এবং প্রতিটির জন্য নির্দিষ্ট কোড কার্যকর করে।</td>
-    </tr>
-    <!-- Flow Control Statements -->
-    <tr>
-      <td rowspan="4"><b>Flow Control Statements</b></td>
-      <td>break</td>
-      <td>কোনো লুপ বা switch নির্দেশনার কার্যক্রম তাৎক্ষণিকভাবে বন্ধ করে দেয়।</td>
-    </tr>
-    <tr>
-      <td>continue</td>
-      <td>বর্তমান ধাপটি বাদ দিয়ে লুপের পরবর্তী ধাপে চলে যায়।</td>
-    </tr>
-    <tr>
-      <td>return</td>
-      <td>একটি ফাংশনের কার্যক্রম শেষ করে এবং প্রয়োজন হলে একটি মান ফেরত পাঠায়।</td>
-    </tr>
-    <tr>
-      <td>throw</td>
-      <td>একটি ব্যতিক্রম সৃষ্টি করে, যা পরে ব্যতিক্রম ব্যবস্থাপনার মাধ্যমে ধরা ও পরিচালনা করা যায়।</td>
-    </tr>
-  </tbody>
+    <thead>
+        <tr>
+            <th>গ্রুপ</th>
+            <th>নির্দেশনা</th>
+            <th>বর্ণনা</th>
+        </tr>
+    </thead>
+    <tbody>
+        <!-- Conditional Statements -->
+        <tr>
+            <td rowspan="2"><b>Conditional Statements</b></td>
+            <td>if / else / elseif</td>
+            <td>শর্ত যাচাই করে নির্দিষ্ট কোড চালায় অথবা বিকল্প কোড চালায়।</td>
+        </tr>
+        <tr>
+            <td>switch</td>
+            <td>একটি মানের উপর ভিত্তি করে একাধিক case থেকে নির্দিষ্ট কোড চালায়।</td>
+        </tr>
+        <!-- Nested -->
+        <tr>
+            <td rowspan="1"><b>Nested Conditions</b></td>
+            <td>nested if</td>
+            <td>একটি if এর ভিতরে আরেকটি if ব্যবহার করে জটিল সিদ্ধান্ত তৈরি করা হয়।</td>
+        </tr>
+        <!-- Ternary -->
+        <tr>
+            <td rowspan="1"><b>Ternary Operator</b></td>
+            <td>?:</td>
+            <td>ছোট আকারে condition লিখে দ্রুত সিদ্ধান্ত নেওয়ার জন্য ব্যবহার হয়।</td>
+        </tr>
+        <!-- Conditional HTML -->
+        <tr>
+            <td rowspan="1"><b>Conditional HTML Output</b></td>
+            <td>PHP in HTML</td>
+            <td>শর্ত অনুযায়ী HTML dynamically show/hide করা হয়।</td>
+        </tr>
+        <!-- Loop Control -->
+        <tr>
+            <td rowspan="2"><b>Flow Control (Loop Control)</b></td>
+            <td>break</td>
+            <td>লুপ বা switch থামিয়ে দেয়।</td>
+        </tr>
+        <tr>
+            <td>continue</td>
+            <td>বর্তমান iteration skip করে পরের ধাপে যায়।</td>
+        </tr>
+    </tbody>
 </table>
 
 এগুলোর মাধ্যমে একটি প্রোগ্রামকে যৌক্তিক, গতিশীল এবং কার্যকরভাবে পরিচালনা করা যায়।
 
+---
 
+## 🎯 এই অধ্যায়ের লক্ষ্য
 
-## PHP তে মোট কয়েক ধরনের Operator আছে
-
-PHP তে প্রধানত নিচের Operator গুলো সবচেয়ে বেশি ব্যবহার হয়ঃ
-
-- **[৩.১ অ্যারিথমেটিক বা গাণিতিক অপারেটর (Arithmetic Operators)](3.1-arithmetic-operators.md)**
-- **[৩.২ ইনক্রিমেন্ট ও ডিক্রিমেন্ট অপারেটর (Increment & Decrement)](3.2-increment-decrement-operators.md)**
-- **[৩.৩ অ্যাসাইনমেন্ট অপারেটর (Assignment Operators)](3.3-assignment-operators.md)**
-- **[৩.৪ কম্পারিজন বা তুলনামূলক অপারেটর (Comparison Operators)](3.4-comparisaon-operators.md)**
-- **[৩.৫ লজিক্যাল বা যৌক্তিক অপারেটর (Logical Operators)](3.5-logical-operators.md)**
-- **[৩.৬ স্ট্রিং অপারেটর: কনক্যাটিনেশন বনাম ইন্টারপোলেশন (String operators)](3.6-string-operators.md)**
-- **[৩.৭ অ্যারে অপারেটর (Array Operators)](3.7-array-operators.md)**
-- **[৩.৮ শর্তাধীন/ত্রয়ী অপারেটর (Conditional/Ternary Operator)](3.8-conditional-operators.md)**
-- **[৩.৯ বিল্ট-ইন ফাংশন এবং ডেটা হ্যান্ডলিং (Built-in Function and Data Handling)](3.9-built-in-functions.md)**
-
-
-## কেন Operators & Expressions গুরুত্বপূর্ণ?
-
-অপারেটর এবং এক্সপ্রেশন শুধু গাণিতিক হিসাব নয়, বরং কোডের লজিক্যাল আর্কিটেকচার তৈরির প্রধান হাতিয়ার। 
-
-আধুনিক পিএইচপি-র নতুন অপারেটরগুলো (যেমন ?-> বা ??) কোডকে অনেক বেশি ক্লিন এবং এরর-মুক্ত রাখতে সাহায্য করে। 
-
-একজন লারাভেল ডেভেলপার হিসেবে এই অপারেটরগুলোর সঠিক অগ্রাধিকার এবং সিকিউরিটি ইমপ্লিকেশন জানা অত্যন্ত জরুরি।
-
-
+এই অধ্যায় শেষ করার পর আমরা শিখব:
+- কিভাবে condition ব্যবহার করে decision নিতে হয়  
+- real-world logic PHP দিয়ে implement করা  
+- dynamic web page তৈরি করা  
+- clean control flow লেখা  
 
 ---
+
 ## 📚 অধ্যায়ের নেভিগেশন
 
 | ⬅️ পূর্ববর্তী পাঠ | 🏠 সূচিপত্র | ➡️ পরবর্তী পাঠ |
 |---|---|---|
-| [ভেরিয়েবল](2.2-variables.md) | [হোম](../README.md) | [গাণিতিক বা অ্যারিথমেটিক অপারেটর](3.1-arithmetic-operators.md) |
+| [ভেরিয়েবল](2.2-variables.md) | [হোম](../README.md) | [If / Else / Elseif](4.1-if-else.md) |
 
 
 ---
